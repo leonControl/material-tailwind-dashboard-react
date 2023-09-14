@@ -1,4 +1,4 @@
-export function Aplicaciones() {
+const Aplicaciones = () => {
     return (
       <h1>OTRAS APLICACIONES</h1>
     );

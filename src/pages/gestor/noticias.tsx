@@ -1,5 +1,5 @@
 
-export function Noticias() {
+const Noticias = () => {
   return (
     <h1>NOTICIAS</h1>
   );

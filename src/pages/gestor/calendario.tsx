@@ -1,6 +1,6 @@
 
 
-export function Calendario() {
+const Calendario = () => {
   return (
     <h1>CALENDARIO</h1>
   );

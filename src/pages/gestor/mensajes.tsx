@@ -1,6 +1,6 @@
 
 
-export function Mensajes() {
+const Mensajes = () => {
   return (
     <h1>MENSAJES</h1>
   );
