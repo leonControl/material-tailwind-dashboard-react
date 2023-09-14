@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/context/index.jsx", "src/main.tsx", "src/layouts/gestor.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/context/index.jsx", "src/main.tsx", "src/layouts/gestor.jsx", "src/components/layout/sidenav.jsx", "src/components/layout/navbar.jsx"],
   "exclude": ["node_modules"]
 }
