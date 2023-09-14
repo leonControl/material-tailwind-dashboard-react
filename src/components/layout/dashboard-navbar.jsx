@@ -15,7 +15,7 @@ import {
   setOpenSidenav,
 } from "@/context";
 
-import colors from "../../context/colors.jsx"
+import colors from "../../context/colors.tsx"
 
 
 
