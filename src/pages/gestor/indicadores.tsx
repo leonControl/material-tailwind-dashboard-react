@@ -1,6 +1,6 @@
 
 
-const Indicadores = () => {
+export function Indicadores() {
   return (
     <h1>INDICADORES</h1>
   );

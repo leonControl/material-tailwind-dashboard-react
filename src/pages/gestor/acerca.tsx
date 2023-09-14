@@ -1,4 +1,4 @@
-const Acerca = () => {
+export function Acerca() {
     return (
       <h1>ACERCA DE</h1>
     );
