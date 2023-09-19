@@ -6,6 +6,6 @@ export function Auth() {
   );
 }
 
-Auth.displayName = "/src/layout/Auth.jsx";
+Auth.displayName = "/src/layout/Auth";
 
 export default Auth;
